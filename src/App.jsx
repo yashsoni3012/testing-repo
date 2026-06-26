@@ -70,7 +70,7 @@ function App() {
 
 
             
-            {/* <Route path="jobs" element={<Jobs />} />
+            {/* <Route path="jobs" element={<Jobs />} />testing
             <Route path="applications" element={<Applications />} />
             <Route path="companies" element={<Companies />} />
             <Route path="candidates" element={<Candidates />} />
